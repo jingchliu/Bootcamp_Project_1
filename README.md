@@ -27,7 +27,7 @@ After converting, we grouped by categories in order to determine what the most p
 From there, we merged the required columns and made a new data frame of our cleaned data.
 
  
- 
+ ![image](https://user-images.githubusercontent.com/57304123/88902430-0b098a00-d207-11ea-9e78-46aaad16f7f4.png)
 
 
 ## Scatterplots:
