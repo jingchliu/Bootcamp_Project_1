@@ -72,6 +72,7 @@ Bringing all these charts together, we’ve learned that the game category has t
 ## Gaming Apps:
 
 Action games, casual games, and arcade games are the most popular game subcategories based on the number of total reviews. And if you look at the average rating for different subcategories, the ratings are fairly close and are all above 4, meaning that user will only rate an app if it is actually good. 
+![image](https://user-images.githubusercontent.com/57304123/88904755-56716780-d20a-11ea-92cd-cb1ef4d28a40.png)
 
 
 
