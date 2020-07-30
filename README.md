@@ -66,6 +66,7 @@ We should also consider the median of installations.  Looking at the median, we 
  
 
 Bringing all these charts together, we’ve learned that the game category has the highest total installs, 2nd highest average installs, highest median installs, and highest total reviews.  Therefore, we conclude that we should make a game app.
+![image](https://user-images.githubusercontent.com/57304123/88903664-e1e9f900-d208-11ea-9776-a3762134c0b5.png)
 
 
 ## Gaming Apps:
