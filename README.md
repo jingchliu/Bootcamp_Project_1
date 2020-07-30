@@ -114,13 +114,17 @@ But if you look at the average installs for each subcategory, the most popular s
 In terms of paid and unpaid apps, it is clear that free apps dominate the market. In fact, during our analysis, the only category that has an average cost per app over 1 USD is health apps. The result is not a surprise to the team: it makes sense that nobody is willing to pay for entertainment apps, if there are so many free apps available in the market. People only pay if it is for functionalities. 
 ![image](https://user-images.githubusercontent.com/57304123/88905207-e7484300-d20a-11ea-864c-da03c62dc509.png)
 
-As a conclusion, and also to answer the questions we brought up at the beginning, the data shows that the “right” app to make should have following characters:
--	Free (but can still have in app purchases 
+## Conclusion
+
+As a conclusion, and also to answer the questions we brought up at the beginning, the data shows that the “right” app to make should have the following characters:
+-	Free (but can still have in app purchases) 
 -	Game app
 -	Racing game
--	Should incentivize users to rate us on app store 
+-	Should incentivize users to rate us on app store
 
-However, the data/ analysis we had still have a lot of limitations:
+## Limitations
+
+The data/ analysis we had still have a lot of limitations:
 -	Information is not free. We were not able to get the Apple store app information and therefore cannot compare the two biggest phone app market data. 
 -	Communication is the second popular apps in the market by installs/ average installs. If we have more time, we could have analyzed communication more with similar codes that we used for gaming apps.
 -	If we can have access to data for the past few years, we can run more analysis on based on time: Which type of apps are trending up/down? Which category has growing apps (more competition) and which category has a high demand (high installs but not a growth in number of apps over time)?
