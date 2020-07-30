@@ -39,7 +39,7 @@ Exploring the relationships of this dataset with several scatterplots, we’ve f
  
 
 But if you didn’t know, Google Play Store’s search algorithm factors in many variables, such as number of downloads, overall rating, and number of reviews.  A better way to look at this correlation is that by having more reviews for your app, it increases your app’s visibility, therefore increasing your number of installs.  This relationship should be considered when making an app.
-![image](https://user-images.githubusercontent.com/57304123/88902821-8ff4a380-d207-11ea-84fa-13f4206d6e00.png)
+![image](https://user-images.githubusercontent.com/57304123/88903327-5bcdb280-d208-11ea-8fff-c2b2627a43cb.png)
 
 ## Bar graphs:
 We have several bar graphs that features the totals and averages of each variable.  We’ve found there are several outliers for these, particularly for the Communication, Game and Video Player category.  Ratings, however, seem to all float around at the same value with all categories averaging above 4.  This suggests that users tend to review an app only if they like it.
