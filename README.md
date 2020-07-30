@@ -112,7 +112,7 @@ But if you look at the average installs for each subcategory, the most popular s
 
 
 In terms of paid and unpaid apps, it is clear that free apps dominate the market. In fact, during our analysis, the only category that has an average cost per app over 1 USD is health apps. The result is not a surprise to the team: it makes sense that nobody is willing to pay for entertainment apps, if there are so many free apps available in the market. People only pay if it is for functionalities. 
-
+![image](https://user-images.githubusercontent.com/57304123/88905207-e7484300-d20a-11ea-864c-da03c62dc509.png)
 
 As a conclusion, and also to answer the questions we brought up at the beginning, the data shows that the “right” app to make should have following characters:
 -	Free (but can still have in app purchases 
